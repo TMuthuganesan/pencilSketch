@@ -1,5 +1,5 @@
 # pencilSketch
-It is simple code which uses python openCV library to generate a pencil sketch
+It is a simple code which uses python openCV library to generate a pencil sketch
 from a photo. The steps followed are,
 1. Read the input image as gray scale image
 2. Remove any noise using a 3x3 gaussian filter
